@@ -22,3 +22,14 @@
         padding: 10px 2px;
         color: black;
     }
+    .acerca{
+        margin: auto;
+        padding: 5px;
+        font-size: 20px;
+        text-align: center;
+        color: white;
+        width: 600px;
+        height: 200px;
+        background-color: rgb(83, 89, 180);
+        border-radius: 10px;
+    }
