@@ -21,6 +21,8 @@
         background: #dddddd;
         padding: 10px 2px;
         color: black;
+       border-radius: 5px;
+
     }
     .acerca{
         margin: auto;
@@ -31,5 +33,6 @@
         width: 600px;
         height: 200px;
         background-color: rgb(83, 89, 180);
-        border-radius: 10px;
+        border-radius: 10px;      
+
     }
